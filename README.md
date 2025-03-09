@@ -64,13 +64,15 @@ MongoDB (Mongoose ODM)
 JWT (for authentication)
 Bcrypt.js (for password hashing)
 
-Challenges Faced
-1. Handling Authentication and Authorization
-Issue: Ensuring only authenticated users can access their tasks.
-Solution: Implemented JWT-based authentication and middleware to protect routes.
-2. Filtering and Searching Tasks
-Issue: Implementing dynamic filtering based on category and status.
-Solution: Used React state and filter functions to dynamically update task lists.
-3. Connecting Frontend with Backend
-Issue: Handling API request errors and token-based authentication.
-Solution: Used Axios with error handling and stored tokens securely in local storage.
+## Challenges Faced
+### 1. **Handling Authentication and Authorization**
+   - Issue: Ensuring only authenticated users can access their tasks.
+   - Solution: Implemented JWT-based authentication and middleware to protect routes.
+
+### 2. **Filtering and Searching Tasks**
+   - Issue: Implementing dynamic filtering based on category and status.
+   - Solution: Used React state and filter functions to dynamically update task lists.
+
+### 3. **Connecting Frontend with Backend**
+   - Issue: Handling API request errors and token-based authentication.
+   - Solution: Used Axios with error handling and stored tokens securely in local storage.ror handling and stored tokens securely in local storage.
