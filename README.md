@@ -20,7 +20,7 @@ Ensure you have the following installed on your system:
 
 ### Clone the Repository
 
-git clone https://github.com/sandeepbangalore771/task-manager.git
+git clone https://github.com/sandeepbangalore771/task-manager-backend.git
 cd task-manager
 
 
